@@ -1,0 +1,1 @@
+id,retweeted_status.created_at,retweeted_status.favorite_count,retweeted_status.id,retweeted_status.in_reply_to_status_id,retweeted_status.in_reply_to_user_id,retweeted_status.retweet_count,retweeted_status.text,retweeted_status.truncated,retweeted_status.user.id
