@@ -1,6 +1,7 @@
 # Introduction
-** Use NLTK and Twitter API(Streameing , Search API) to get the tweets data from Twitter ** 
-- More details in my Medium article: <a href='https://medium.com/p/2bd493f452a6/edit'>使用 NLTK 搭配 Twitter API 拿取社群資料 (上) ：以川普的 Twitter資料為例</a>
+Use NLTK and Twitter API(Streameing , Search API) to get the tweets data from Twitter </br>
+- More details in my Medium article: </br>
+<a href='https://medium.com/p/2bd493f452a6/edit'>使用 NLTK 搭配 Twitter API 拿取社群資料 (上) ：以川普的 Twitter資料為例</a>
 
 # Environment
 python 3.6
